@@ -1,8 +1,8 @@
 .App {
   text-align: center;
-  background-color: #282c34; /* 전체 배경색 설정 */
-  color: white; /* 전체 글꼴 색 설정 */
-  font-family: Arial, sans-serif; /* 글꼴 설정 */
+  background-color: #282c34; 
+  color: white; 
+  font-family: Arial, sans-serif; 
 }
 
 .App-header {
@@ -35,15 +35,19 @@
   margin-top: 20px;
   text-align: left;
   width: 80%;
-  background-color: #282c34; /* 메시지 박스 배경색 설정 */
+  background-color: #282c34; 
   padding: 15px;
   border-radius: 5px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 추가 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 .generated-message {
   white-space: pre-line;
   font-size: 18px;
   line-height: 1.5;
-  color: white; /* 메시지 글꼴 색 설정 */
+  color: white; 
+}
+.loading-image {
+  width: 50px; 
+  height: 50px; 
 }
