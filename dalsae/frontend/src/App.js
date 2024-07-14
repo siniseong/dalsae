@@ -33,6 +33,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>달새</h1>
+        <p>당신의 상황을 알려주세요! 달새가 메시지 형식을 알려드릴게요!</p>
         <input
           type="text"
           value={context}
