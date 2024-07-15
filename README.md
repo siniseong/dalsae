@@ -1,4 +1,7 @@
 ## 달새🕊
+![ekfto dlalwl](https://github.com/user-attachments/assets/fb303229-3ddf-4a35-8be1-ea09d5d93eab)
+
+
 > [!NOTE]
 > - 친구가 메세지를 보내며 당황스러워 했어요!
 > - 왜냐구요?!
