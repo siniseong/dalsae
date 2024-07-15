@@ -1,4 +1,4 @@
-## 달새🕊
+## 달새🕊 [개발-log](https://velog.io/@huise0ng/%EC%83%81%ED%99%A9%EB%A7%8C%EB%84%A3%EC%96%B4%EB%A9%94%EC%8B%9C%EC%A7%80%EB%8A%94%EB%82%B4%EA%B0%80%EC%A0%81%EC%96%B4%EC%A4%84%EA%B2%8C)
 ![ekfto dlalwl](https://github.com/user-attachments/assets/fb303229-3ddf-4a35-8be1-ea09d5d93eab)
 
 
