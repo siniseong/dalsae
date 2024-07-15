@@ -20,6 +20,7 @@
 ## 달새를 출품했어요
 - Google Gemini API Developer Contest <br>
 - 2024 조코딩 AI 해커톤 with Google
+<br><br>
 
-
-
+---
+> 수정 또는 추가를 원하는 기능을 issue에 알려주세요!
