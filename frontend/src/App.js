@@ -11,7 +11,7 @@ function App() {
     setIsLoading(true); 
 
     try {
-      const response = await fetch('http://localhost:3001/generate', {
+      const response = await fetch('https://siniseong.pah.kr//generate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
